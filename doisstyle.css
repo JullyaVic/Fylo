@@ -1,0 +1,36 @@
+.container {
+  padding: 50px;
+  display: flex;
+  margin: 20px;
+  justify-content: space-evenly;
+  background-color: rgba(85, 85, 184, 0.301);
+  border-radius: 50px;
+}
+
+a{
+  font-family: "Raleway", sans-serif;
+  color: rgb(9, 112, 78);
+  text-decoration: none;
+}
+
+.partedois{
+  padding: 50px;
+  justify-content: space-evenly;
+  background-color: rgba(90, 2, 117, 0.705);
+  margin-top: 20px;
+
+}
+
+button {
+  font-size: 20px;
+  padding: 8px;
+  margin: 7px;
+  background-color: rgb(143, 143, 228);
+  color: white;
+}
+input {
+  font-size:20px;
+  padding: 8px;
+  margin: 7px;
+}
+
