@@ -15,10 +15,17 @@ a{
 
 .partedois{
   padding: 50px;
-  justify-content: space-evenly;
+  justify-content: space-between;
   background-color: rgba(90, 2, 117, 0.705);
   margin-top: 20px;
+  display: flex;
+ 
 
+}
+
+.flex-columm{
+  display: flex;
+  flex-direction: column;
 }
 
 button {
